@@ -9,6 +9,17 @@ description: Protent is a San Francisco based Y Combinator (Winter 2026) startup
   Sharma (CTO, NLP/sentiment analysis), the company works with police departments in the Atlanta,
   Chicago, and St. Louis metro areas. As of this profile, Protent publishes a marketing website
   only and exposes no public API, developer documentation, or SDK surface.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
